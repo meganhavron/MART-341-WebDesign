@@ -1,0 +1,10 @@
+# Megan Havron' Mart-341-WebDesign
+The difference between the World Wide Web and Internet is that the WWW is surface level. In other words, it is what you see when you open your computer and click 
+on your safari icon that brings you to google. Whereas, the internet is the network that the WWW runs on. Without the internet, WWW would not work.
+
+The internet works by connecting multiple computers together, that move data from one place to another through networks. 
+A directory is a collection of files that make up a folder. 
+VCS, also known as the Version Control System, will benefit me because if I ever mess up a file I know that I will always be able to go back in and edit it.
+Also, it will always not the changes I make to a file, or someone else makes to my files. 
+My favorite kind of art is music. I have loved singing ever since a very young age, and I dabble in writing my own songs sometimes. 
+
