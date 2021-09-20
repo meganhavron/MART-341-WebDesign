@@ -7,3 +7,10 @@
 [Facebook](https://www.facebook.com/)
 
 [Hulu](https://hulu.com/)
+
+DNS is the converter to an IP address. The DNS converts domain names into IP addresses. Without this conversion one would not be 
+able to access a browser page. 
+
+Cookies are actually considered a text file. In basic terms, a cookie is used as an identification source of your computer as you are browsing a website. 
+
+The three essential parts of a URL include .com, http://, and /directory/. 
